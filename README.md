@@ -18,3 +18,4 @@ A modern React-based dashboard to manage student scores with a clean neon UI.
 ```bash
 npm install
 npm run dev
+c:\Users\ASMIT\OneDrive\Pictures\Screenshots\Screenshot 2026-04-29 120904.png
